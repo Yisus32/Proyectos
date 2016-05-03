@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460176170 source:c:\documents and settings\goyo\escritorio\computación\practica matrices\charmander\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
