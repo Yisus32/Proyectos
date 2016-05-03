@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1456612702 source:c:\documents and settings\goyo\escritorio\computación\practica matrices\digger 1.1\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
