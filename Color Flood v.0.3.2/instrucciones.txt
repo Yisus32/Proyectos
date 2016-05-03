@@ -1,0 +1,11 @@
+ ____________Instrucciones_______________
+
+ La mecanica del juego es muy sencilla: 
+
+ Se presenta un tablero con una variacion de seis (06) 
+ colores diferentes tu objetivo es llenar todo el tablero 
+ de un solo color, sin pasarte del limite de movimientos.
+
+ Bajo el tablero puedes observar una serie de numeros del uno al seis, 
+ los cuales representan las teclas y sus respectivos colores. 
+ Puedes jugar en 4 modalidades distintas, cada una con diferentes dimensiones.
